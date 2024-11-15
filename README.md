@@ -17,7 +17,7 @@ How to create the infrastructure.
 2. go inside aks-module folder 
 `cd aks-module`
 3. Follow terraform workspace strucutre to keep different envrionment file in different workspace. For ex:
-sh```
+```sh
 terraform workspace new poc-env
 terraform workspace select poc-env
 terraform init
