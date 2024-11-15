@@ -1,0 +1,9 @@
+rg_group_name = "poc-rg"
+rg_location = "centralindia"
+acr_sku = "Standard"
+vm_size = "standard_a2_v2"
+custom_vm_size = "Bascic_A1"
+custom_node_name = "appsnode"
+create_acr = true
+acr_name = "pocacr"
+node_count = 2
